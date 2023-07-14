@@ -160,7 +160,7 @@ cython_debug/
 #.idea/
 
 src/utils.py
-components/
+src/components/
 logs/
-pipeline/
+src/pipeline/
 src/__pycache__/
